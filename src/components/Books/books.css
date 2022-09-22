@@ -1,0 +1,30 @@
+.mainContainer {
+  display: "flex";
+  align-items: "center";
+}
+
+.container {
+  display: "flex" !important;
+  justify-content: center !important;
+  margin: auto !important;
+  margin-bottom: 5rem !important;
+}
+
+.actionDiv {
+  text-align: "center";
+}
+
+.a-genre-title {
+  display: "flex" !important;
+  justify-content: left !important;
+  margin-left: 50px;
+  font-weight: 100;
+  color: #b48b8b;
+}
+
+.progress {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #b48b8b;
+}
